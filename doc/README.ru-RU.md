@@ -19,9 +19,7 @@
 4.  Подтвердите импорт
 5.  Установите данные для авторизации в переменные коллекции
 
-    ```
-    https://docs.sbercloud.ru/aicloud/mlspace/concepts/api__auth.html#id3
-    ```
+    [ID/Secret в документации](https://docs.sbercloud.ru/aicloud/mlspace/concepts/api__auth.html#id3)
 
 ##### 3. Авторизуйтесь на ML Space
 Вызовите самый первый метод коллекции - ```/public/v1/auth/```
